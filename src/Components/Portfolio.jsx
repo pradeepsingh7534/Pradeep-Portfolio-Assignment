@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "E-Commerce Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "It is a E-commerce website project made with react JS only to show skills, many functionalities added, filter by price, category wise products, add or remove product in cart, loading, pagination routing and used react redux as well, also tried to make things dynamic, responsive as well..",
+    url: "https://e-commerce-ten-pearl-86.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Gusto Clone Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "It is a Gusto clone Website Project, where you can create a company, Sign in, create account logout functionality added, local storage used to save data, like these many functionalities added in to website, not very responsive but functionable.",
+    url: "https://verdant-panda-50245c.netlify.app/index.html",
   },
   {
-    title: "My Resume Site",
+    title: "Todo App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "It is a Todo Application where you can list your tasks and can change the status of task as well, created with react JS and functionality also added, used useState hook to create Application.",
+    url: "https://todo-app-five-bice-25.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Gemini AI App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "It is a clone of Google Gemini AI App made with JavaScript, tried to make it more attractive",
+    url: "https://github.com/pradeepsingh7534/JS-App.git",
   },
 ];
 
